@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idris
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 I’m currently learning ... React JavaScript
 - 💞️ I’m looking to collaborate on ...Frontend Development
 - 📫 How to reach me +234 909 307 6633
 
