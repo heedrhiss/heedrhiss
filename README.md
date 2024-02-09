@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heedrhiss
+- 👋 Hi, I’m Idris
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...Frontend Development
