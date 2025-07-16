@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idris
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning ... React Native
+- 🌱 I’m currently learning ... Node Js
 - 💞️ I’m looking to collaborate on ...Frontend Development
 - 📫 How to reach me +234 909 307 6633
 
