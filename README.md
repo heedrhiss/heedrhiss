@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Idris
+- 👋 Hi, I’m Idris Muyideen
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ... React Native
 - 💞️ I’m looking to collaborate on ... Software Development
