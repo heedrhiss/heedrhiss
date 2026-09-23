@@ -7,13 +7,14 @@
 ## About Me
 
 - 💻 3+ years of hands-on experience building web applications
-- ⚛️ Strong focus on React, Next.js, React Native, Node.js, Express.js, Nest.js, TypeScript, and modern fullstack development
+- ⚛️ Strong focus on React, Next.js, React Native, Node.js, Express.js, TypeScript and modern fullstack development
 - 🔌 Experienced with REST APIs, authentication, state management, and third-party integrations
-- 🗄️ Familiar with MongoDB, MySQL and Supabase
+- 🗄️ Database management with MongoDB, MySQL and Supabase
 - 🧩 Enjoy building interactive dashboards, business applications, booking systems and interactive interfaces
 - 🎨 Interested in clean UI, accessibility, performance and good user experience
-- 🔧 Currently deepening my knowledge of Enterprise development and Automations.
-- 📚 Always learning and experimenting with new tools and technologies
+- 🔧 Proficient in collaboration and productive tools like Jira, Clickup, Slack, Teams, Git etc
+- 📚 Currently deepening my knowledge of Enterprise development and Automations.
+- Always learning and experimenting with new tools and technologies
 
 ---
 
@@ -96,8 +97,8 @@ If you're interested in software development, collaboration, or just want to con
 const idris = {
   role: "Software Engineer",
   focus: ["Full-Stack", "Frontend", "Backend"],
-  technologies: ["React", "Next.js", React Native, Express.js, "TypeScript", "Node.js"],
+  technologies: ["React", "Next.js", "React Native", "Express.js", "TypeScript", "Node.js"],
   currentlyLearning: ["Enterprise development", "Automation"],
-  philosophy: "Always expect the worst, even from your own keen, that way you avoid too much disappointments ~Floki"
+  philosophy: "Always expect the worst, even from your own keen, that way you avoid too much disappointments" ~Floki
 };
 
