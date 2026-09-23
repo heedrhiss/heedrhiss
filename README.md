@@ -2,12 +2,6 @@
 
 ### Software Engineer | Fullstack Developer
 
-I'm a software engineer focused on building modern web and mobile applications that are reliable, responsive and easy to use.
-
-I primarily work with **Next.js, Node, JavaScript, TypeScript, Python and PHP**, and I'm gradually expanding deeper into Enterprise development and Automations.
-
-I enjoy taking ideas from a concept and turning them into practical software — from designing interfaces and managing application state to integrating APIs and working with databases.
-
 ---
 
 ## About Me
@@ -101,13 +95,9 @@ If you're interested in software development, collaboration, or just want to con
 ```javascript
 const idris = {
   role: "Software Engineer",
-  focus: ["Frontend", "Full-Stack", "Backend"],
-  technologies: ["React", "Next.js", "TypeScript", "Node.js"],
-  currentlyLearning: ["Backend Engineering", "System Design"],
-  philosophy: "Keep learning. Keep building."
+  focus: ["Full-Stack", "Frontend", "Backend"],
+  technologies: ["React", "Next.js", React Native, Express.js, "TypeScript", "Node.js"],
+  currentlyLearning: ["Enterprise development", "Automation"],
+  philosophy: "Always expect the worst, even from your own keen, that way you avoid too much disappointments ~Floki"
 };
 
-<!---
-heedrhiss/heedrhiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
