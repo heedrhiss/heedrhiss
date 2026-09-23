@@ -12,7 +12,7 @@
 - 🗄️ Database management with MongoDB, MySQL and Supabase
 - 🧩 Enjoy building interactive dashboards, business applications, booking systems and interactive interfaces
 - 🎨 Interested in clean UI, accessibility, performance and good user experience
-- 🔧 Proficient in collaboration and productive tools like Jira, Clickup, Slack, Teams, Git etc
+- 🔧 Proficient in collaboration and productive tools like Jira, Clickup, Slack, Teams, Figma, Git & Github etc
 - 📚 Currently deepening my knowledge of Enterprise development and Automations.
 - Always learning and experimenting with new tools and technologies
 
@@ -24,9 +24,9 @@
 
 - JavaScript
 - TypeScript
+- SQL
 - Python
 - Java
-- SQL
 
 ### Frontend
 
@@ -47,26 +47,17 @@
 - MySQL
 - Supabase
 
-### Tools
-
-- Git & GitHub
-- Figma
-- Postman
-- Jira
-- Vercel
-- VS Code
-
 ---
 
-## What I Like Building
+## What do you want me to building?
 
-I'm particularly interested in applications that involve:
+I'm always interested in applications that involve:
 
 - Complex frontend interfaces
 - Interactive Admin dashboards
 - Business management systems
 - Booking and reservation platforms
-- API-driven applications
+- Backend API development & integrations
 - Authentication and authorization
 - Database management
 - Responsive web and mobile applications
@@ -74,18 +65,9 @@ I'm particularly interested in applications that involve:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heedrhiss&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heedrhiss&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
-
 ## Let's Connect
 
-If you're interested in software development, collaboration, or just want to connect, feel free to reach out.
+If you're interested in software development, collaboration or just want to connect, feel free to reach out.
 
 - 🌐 [Portfolio](https://heedrhiss.vercel.app/)
 - 💼 [LinkedIn](https://linkedin.com/in/heedrhiss)
